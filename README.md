@@ -15,13 +15,24 @@
 <a href="https://www.instagram.com/waterkite_01/"><img src="https://img.shields.io/badge/Instargram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://bepolar.tistory.com"><img src="https://img.shields.io/badge/BePolar-00a3d2?style=flat-square&logo=Github&logoColor=white"/></a>
  
-
   
  ### Teck Stack 🐣
   
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+
  
-  
  ### Design Stack 🐥
-  
+ 
+ <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>                           
+ 
+ 
+ 
+ <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Adobe Indesign-FF3366?style=flat-square&logo=Adobe Indesign&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?style=flat-square&logo=Adobe Premiere Pro&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=flat-square&logo=SketchUp&logoColor=white"/>
   
 </div> 
