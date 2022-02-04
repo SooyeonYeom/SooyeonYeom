@@ -16,7 +16,7 @@
 <a href="https://bepolar.tistory.com"><img src="https://img.shields.io/badge/BePolar-00a3d2?style=flat-square&logo=Github&logoColor=white"/></a>
  
   
- ### Teck Stack 🐣
+ ### Tech Stack 🐣
   
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=flat-square&logo=Adobe XD&logoColor=white"/>                           
  
- 
+ <br>
  
  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?style=flat-square&logo=Adobe After Effects&logoColor=white"/>
    <img src="https://img.shields.io/badge/Adobe Indesign-FF3366?style=flat-square&logo=Adobe Indesign&logoColor=white"/>
