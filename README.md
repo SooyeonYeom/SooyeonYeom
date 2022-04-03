@@ -1,7 +1,7 @@
 <div align="center">
 
 
-## 🌱 응애 나 애기 코린이 🌱
+## Hi ! I'm Sooyeon 👋
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooyeonYeom%2Fhit-counter&count_bg=%23FFE5A0&title_bg=%23FFC13F&icon=pinboard.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
