@@ -1,7 +1,7 @@
 <div align="center">
 
 
-## Hi, I'm Sooyeon 👋
+## 응애 나 애기 코린이 🌱
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSooyeonYeom%2Fhit-counter&count_bg=%23FFE5A0&title_bg=%23FFC13F&icon=pinboard.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -16,12 +16,17 @@
 <a href="https://www.instagram.com/waterkite_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  
   
- ### Tech Stack 🐣
+ ### Studying 🐣
   
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ 
+  <br>
+ 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+ <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
  
  ### Design Stack 🐥
  
