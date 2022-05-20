@@ -11,9 +11,7 @@
  ### About Me 🥚
  
  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valikys@snu.ac.kr)](mailto:valikys@snu.ac.kr)
-<!--  
  <a href="https://sooyeonyeom.github.io/"><img src="https://img.shields.io/badge/GitBlog-286696?style=flat-square&logo=Github&logoColor=white"/></a>
-  -->
 <a href="https://www.instagram.com/waterkite_01/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
  
   
